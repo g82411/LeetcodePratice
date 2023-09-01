@@ -6,15 +6,12 @@
 ## 目錄
 
 - [差分數列](#差分數列)
-- [Linked List](#linked-list)
-- [Trees](#trees)
-- ... (其他標籤)
 
 ---
 
 ### 差分數列
 
-- **[#1094_Car_Pooling](./problems/1094_Car_Pooling/)** - [LeetCode Link](https://leetcode.com/problems/car-pooling/)
+- **[#1094_Car_Pooling](./problems/1094_Car_Pooling/solution.go)** - [LeetCode Link](https://leetcode.com/problems/car-pooling/)
 
 ---
 
