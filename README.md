@@ -12,6 +12,8 @@
 ### 差分數列
 
 - **[#1094_Car_Pooling](./problems/1094_Car_Pooling/solution.go)** - [LeetCode Link](https://leetcode.com/problems/car-pooling/)
+- **[#759_Employee_Free_Time](./problems/759_Employee_Free_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/employee-free-time/)
+- **[#731_My_Calendar_II](./problems/732_My_Calendar_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/my-calendar-ii/)
 
 ---
 
