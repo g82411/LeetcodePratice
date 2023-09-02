@@ -7,6 +7,7 @@
 
 - [差分數列](#差分數列)
 - [DP](#DP)
+- [Greedy](#Greedy)
 
 ---
 
@@ -17,8 +18,17 @@
 - **[#731_My_Calendar_II](./problems/732_My_Calendar_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/my-calendar-ii/)
 
 ### DP
-- **[#801](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
+- **[#801 Minimum Swaps To Make Sequences Increasing](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
+- **[#790 Domino and Tromino Tiling](./problems/790_Domino_and_Tromino_Tiling/solution.go)** - [LeetCode Link](https://leetcode.com/problems/domino-and-tromino-tiling)
+- **[#2318 Number of Distinct Roll Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
+- **[#552_Student_Attendance_Record_II](./problems/552_Student_Attendance_Record_II)** - [LeetCode Link](https://leetcode.com/problems/student-attendance-record-ii/)
+- **[#790_Domino_and_Tromino_Tiling](./problems/790_Domino_and_Tromino_Tiling)** - [LeetCode Link](https://leetcode.com/problems/domino-and-tromino-tiling/)
+- **[#1262_Greatest_Sum_Divisible_by_Three](./problems/1262_Greatest_Sum_Divisible_by_Three)** - [LeetCode Link](https://leetcode.com/problems/greatest-sum-divisible-by-three/)
+- **[#1419_Minimum_Number_of_Frogs_Croaking](./problems/1419_Minimum_Number_of_Frogs_Croaking)** - [LeetCode Link](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
+- **[#2318_Number_of_Distinct_Roll_Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
 
+### Greedy
+- **[#134_Gas_Station](./problems/134_Gas_Statio/solution.go)** - [LeetCode Link](https://leetcode.com/problems/gas-station/)
 ---
 
 ## 使用方法
