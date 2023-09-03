@@ -26,6 +26,7 @@
 - **[#1262_Greatest_Sum_Divisible_by_Three](./problems/1262_Greatest_Sum_Divisible_by_Three)** - [LeetCode Link](https://leetcode.com/problems/greatest-sum-divisible-by-three/)
 - **[#1419_Minimum_Number_of_Frogs_Croaking](./problems/1419_Minimum_Number_of_Frogs_Croaking)** - [LeetCode Link](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
 - **[#2318_Number_of_Distinct_Roll_Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
+- **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
 
 ### Greedy
 - **[#134_Gas_Station](./problems/134_Gas_Statio/solution.go)** - [LeetCode Link](https://leetcode.com/problems/gas-station/)
