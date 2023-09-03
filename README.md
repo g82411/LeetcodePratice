@@ -8,8 +8,17 @@
 - [差分數列](#差分數列)
 - [DP](#DP)
 - [Greedy](#Greedy)
+- [雙指針](#雙指針)
+- [DFS](#DFS)
+- [Graph](#Graph)
 
 ---
+
+### 雙指針
+#### 滑窗
+- **[#2024_Maximize_the_Confusion_of_an_Exam](./problems/2024_Maximize_the_Confusion_of_an_Exam/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) 
+- **[#2747_Count_Zero_Request_Servers](./problems/2747_Count_Zero_Request_Servers/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-zero-request-servers/description/)
+- **[#2516_Take_K_of_Each_Character_From_Left_and_Right](./problems/2516_Take_K_of_Each_Character_From_Left_and_Right/solution.go)** - [LeetCode Link](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 
 ### 差分數列
 
@@ -27,9 +36,20 @@
 - **[#1419_Minimum_Number_of_Frogs_Croaking](./problems/1419_Minimum_Number_of_Frogs_Croaking)** - [LeetCode Link](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
 - **[#2318_Number_of_Distinct_Roll_Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
 - **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
-
+- **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
 ### Greedy
 - **[#134_Gas_Station](./problems/134_Gas_Statio/solution.go)** - [LeetCode Link](https://leetcode.com/problems/gas-station/)
+- **[#881_Boats_to_Save_People](./problems/881_Boats_to_Save_People/solution.go)** - [LeetCode Link](https://leetcode.com/problems/boats-to-save-people)
+- **[#2171_Removing_Minimum_Number_of_Magic_Beans](./problems/2171_Removing_Minimum_Number_of_Magic_Beans/solution.go)** - [LeetCode Link](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)
+
+### DFS
+- **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
+
+### Graph
+
+#### Dijkstra + pq
+- **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/solution.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
+
 ---
 
 ## 使用方法
