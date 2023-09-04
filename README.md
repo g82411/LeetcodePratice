@@ -29,7 +29,7 @@
 ### DP
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
-- **[#265_Paint_House_II](./problems) ** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
+- **[#265_Paint_House_II](./problems/265_Paint_House_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
 
 - **[#801 Minimum Swaps To Make Sequences Increasing](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
 - **[#790 Domino and Tromino Tiling](./problems/790_Domino_and_Tromino_Tiling/solution.go)** - [LeetCode Link](https://leetcode.com/problems/domino-and-tromino-tiling)
@@ -47,8 +47,8 @@
 - **[#881_Boats_to_Save_People](./problems/881_Boats_to_Save_People/solution.go)** - [LeetCode Link](https://leetcode.com/problems/boats-to-save-people)
 - **[#2171_Removing_Minimum_Number_of_Magic_Beans](./problems/2171_Removing_Minimum_Number_of_Magic_Beans/solution.go)** - [LeetCode Link](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)
 - **[#1727_Largest_Submatrix_With_Rearrangements](./problems/1727_Largest_Submatrix_With_Rearrangements/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
-- **[#1657_Determine_if_Two_Strings_Are_Close]()
-- **[#1578_Minimum_Time_to_Make_Rope_Colorful]()** - [LeetCode Link](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/editorial/)
+- **[#1657_Determine_if_Two_Strings_Are_Close](./problems/1657_Determine_if_Two_Strings_Are_Close/solution.go)** - [LeetCode Link](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+- **[#1578_Minimum_Time_to_Make_Rope_Colorful](./problems/1578_Minimum_Time_to_Make_Rope_Colorful)** - [LeetCode Link](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/editorial/)
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
