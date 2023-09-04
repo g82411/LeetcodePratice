@@ -11,8 +11,13 @@
 - [雙指針](#雙指針)
 - [DFS](#DFS)
 - [Graph](#Graph)
+- [Tree](#Tree)
+
 
 ---
+### Tree
+#### 共同祖先
+- **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
 
 ### 雙指針
 #### 滑窗
