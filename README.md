@@ -27,6 +27,10 @@
 - **[#731_My_Calendar_II](./problems/732_My_Calendar_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/my-calendar-ii/)
 
 ### DP
+#### 依賴前一個的簡單型
+- **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
+- **[#265_Paint_House_II](./problems) ** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
+
 - **[#801 Minimum Swaps To Make Sequences Increasing](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
 - **[#790 Domino and Tromino Tiling](./problems/790_Domino_and_Tromino_Tiling/solution.go)** - [LeetCode Link](https://leetcode.com/problems/domino-and-tromino-tiling)
 - **[#2318 Number of Distinct Roll Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
@@ -37,6 +41,7 @@
 - **[#2318_Number_of_Distinct_Roll_Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
 - **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
 - **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
+
 ### Greedy
 - **[#134_Gas_Station](./problems/134_Gas_Statio/solution.go)** - [LeetCode Link](https://leetcode.com/problems/gas-station/)
 - **[#881_Boats_to_Save_People](./problems/881_Boats_to_Save_People/solution.go)** - [LeetCode Link](https://leetcode.com/problems/boats-to-save-people)
