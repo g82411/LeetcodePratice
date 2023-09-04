@@ -4,10 +4,16 @@ func minCost(colors string, neededTime []int) int {
 	n := len(colors)
 	res := 0
 	for i := 0; i < n; i++ {
-		for j := i + 1; j < n; j++ {
+		sumOfTheSame := 0
+		maxNeed := 0
+		for j := i; j < n; j++ {
 			if colors[i] == colors[j] {
-				res += min(neededTime[i], neededTime[i+1])
+				maxNeed = max(maxNeed, neededTime[j])
+				sumOfTheSame += neededTime[j]
+
 			}
+			// only keep max need time same color
+			res += sumOfTheSame - maxNeed
 			i = j
 		}
 
@@ -15,8 +21,8 @@ func minCost(colors string, neededTime []int) int {
 	return res
 }
 
-func min(a, b int) int {
-	if a < b {
+func max(a, b int) int {
+	if a > b {
 		return a
 	}
 	return b
