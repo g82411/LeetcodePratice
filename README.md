@@ -37,10 +37,14 @@
 - **[#2318_Number_of_Distinct_Roll_Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
 - **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
 - **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
+
 ### Greedy
 - **[#134_Gas_Station](./problems/134_Gas_Statio/solution.go)** - [LeetCode Link](https://leetcode.com/problems/gas-station/)
 - **[#881_Boats_to_Save_People](./problems/881_Boats_to_Save_People/solution.go)** - [LeetCode Link](https://leetcode.com/problems/boats-to-save-people)
 - **[#2171_Removing_Minimum_Number_of_Magic_Beans](./problems/2171_Removing_Minimum_Number_of_Magic_Beans/solution.go)** - [LeetCode Link](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)
+- **[#1727_Largest_Submatrix_With_Rearrangements](./problems/1727_Largest_Submatrix_With_Rearrangements/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
+- **[#1657_Determine_if_Two_Strings_Are_Close]()
+- **[#1578_Minimum_Time_to_Make_Rope_Colorful]()** - [LeetCode Link](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/editorial/)
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
