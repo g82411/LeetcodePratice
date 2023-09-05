@@ -12,18 +12,22 @@
 - [DFS](#DFS)
 - [Graph](#Graph)
 - [Tree](#Tree)
+- [String](#String)
 
 
 ---
 ### Tree
 #### 共同祖先
 - **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
+- **[#1483_Kth_Ancestor_of_a_Tree_Node](./problems/1483_Kth_Ancestor_of_a_Tree_Node/solution.go)** - [LeetCode Link](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)
 
 ### 雙指針
 #### 滑窗
 - **[#2024_Maximize_the_Confusion_of_an_Exam](./problems/2024_Maximize_the_Confusion_of_an_Exam/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) 
 - **[#2747_Count_Zero_Request_Servers](./problems/2747_Count_Zero_Request_Servers/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-zero-request-servers/description/)
 - **[#2516_Take_K_of_Each_Character_From_Left_and_Right](./problems/2516_Take_K_of_Each_Character_From_Left_and_Right/solution.go)** - [LeetCode Link](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
+- **[#76_Minimum_Window_Substring]()** - [LeetCode Link](https://leetcode.com/problems/minimum-window-substring/)
+
 
 ### 差分數列
 
@@ -62,6 +66,9 @@
 
 #### Dijkstra + pq
 - **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/solution.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
+
+### String
+- **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II]()** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
 
 ---
 
