@@ -13,6 +13,7 @@
 - [Graph](#Graph)
 - [Tree](#Tree)
 - [String](#String)
+- [Prefix Sum](#PrefixSum)
 
 
 ---
@@ -63,12 +64,14 @@
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 
 ### Graph
-
 #### Dijkstra + pq
 - **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/solution.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
 
 ### String
 - **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II]()** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
+
+### PrefixSum
+- **[#2838_Maximum_Coins_Heroes_Can_Collect]() - [LeetCode Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)
 
 ---
 
