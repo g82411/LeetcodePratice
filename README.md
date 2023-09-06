@@ -28,9 +28,12 @@
 - **[#2024_Maximize_the_Confusion_of_an_Exam](./problems/2024_Maximize_the_Confusion_of_an_Exam/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) 
 - **[#2747_Count_Zero_Request_Servers](./problems/2747_Count_Zero_Request_Servers/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-zero-request-servers/description/)
 - **[#2516_Take_K_of_Each_Character_From_Left_and_Right](./problems/2516_Take_K_of_Each_Character_From_Left_and_Right/solution.go)** - [LeetCode Link](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
-- **[#76_Minimum_Window_Substring]()** - [LeetCode Link](https://leetcode.com/problems/minimum-window-substring/)
-
+- **[#76_Minimum_Window_Substring](./problems/76_Minimum_Window_Substring/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-window-substring/)
 - **[#2841_Maximum_Sum_of_Almost_Unique_Subarray](./problems/2841_Maximum_Sum_of_Almost_Unique_Subarray/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/)
+- **[#2401_Longest_Nice_Subarray](./problems/2401_Longest_Nice_Subarray/solution.go)** - [LeetCode Link](https://leetcode.com/problems/longest-nice-subarray/)
+- **[#1052_Grumpy_Bookstore_Owner](./problems/1052_Grumpy_Bookstore_Owner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/grumpy-bookstore-owner/)
+- **[#2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps](./problems/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)
+- **[#1004_Max_Consecutive_Ones_III]()** - [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 ### 差分數列
 
@@ -66,15 +69,14 @@
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 
 ### Graph
-
 #### Dijkstra + pq
-- **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/solution.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
+- **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
 
 ### String
-- **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II]()** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
+- **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II](./problems/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
 
 ### PrefixSum
-- **[#2838_Maximum_Coins_Heroes_Can_Collect]() - [LeetCode Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)
+- **[#2838_Maximum_Coins_Heroes_Can_Collect](./problems/2838_Maximum_Coins_Heroes_Can_Collect/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)
 
 ---
 

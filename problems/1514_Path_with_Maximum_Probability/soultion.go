@@ -103,7 +103,7 @@ func (q *EdgeQueue) Pop() interface{} {
 	*q = prev[0 : n-1]
 	return item
 }
-
+binding
 func maxProbability(n int, edges [][]int, prob []float64, start int, end int) float64 {
 	adjust := make([][]Edge, n)
 	// 注意怎麼套用一個heap 這比Dijkstra本身還難
