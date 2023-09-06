@@ -14,9 +14,17 @@
 - [Tree](#Tree)
 - [String](#String)
 - [Prefix Sum](#PrefixSum)
-
+- [Math](#Math)
+- [Hash](#Hash)
 
 ---
+### Hash
+#### Hash + Prefix
+- **[#525_Contiguous_Array](./problems/525_Contiguous_Array/solution.go)** - [LeetCode Link](https://leetcode.com/problems/contiguous-array/description/)
+
+### Math
+- **[#360_Sort_Transformed_Array](./problems/360_Sort_Transformed_Array/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sort-transformed-array/)
+
 ### Tree
 #### 共同祖先
 - **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
@@ -33,7 +41,10 @@
 - **[#2401_Longest_Nice_Subarray](./problems/2401_Longest_Nice_Subarray/solution.go)** - [LeetCode Link](https://leetcode.com/problems/longest-nice-subarray/)
 - **[#1052_Grumpy_Bookstore_Owner](./problems/1052_Grumpy_Bookstore_Owner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/grumpy-bookstore-owner/)
 - **[#2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps](./problems/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)
-- **[#1004_Max_Consecutive_Ones_III]()** - [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- **[#1004_Max_Consecutive_Ones_III](./problems/1004_Max_Consecutive_Ones_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- **[#2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K](./problems/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+##### 區間窗
+- **[#986. Interval List Intersections](./problems/986_Interval_List_Intersections/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interval-list-intersections/)
 
 ### 差分數列
 
