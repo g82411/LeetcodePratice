@@ -20,6 +20,7 @@
 ### Tree
 #### 共同祖先
 - **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
+- **[#2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game](./problems/2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)
 - **[#1483_Kth_Ancestor_of_a_Tree_Node](./problems/1483_Kth_Ancestor_of_a_Tree_Node/solution.go)** - [LeetCode Link](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)
 
 ### 雙指針
@@ -29,6 +30,7 @@
 - **[#2516_Take_K_of_Each_Character_From_Left_and_Right](./problems/2516_Take_K_of_Each_Character_From_Left_and_Right/solution.go)** - [LeetCode Link](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)
 - **[#76_Minimum_Window_Substring]()** - [LeetCode Link](https://leetcode.com/problems/minimum-window-substring/)
 
+- **[#2841_Maximum_Sum_of_Almost_Unique_Subarray](./problems/2841_Maximum_Sum_of_Almost_Unique_Subarray/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/)
 
 ### 差分數列
 
@@ -64,6 +66,7 @@
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 
 ### Graph
+
 #### Dijkstra + pq
 - **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/solution.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
 
