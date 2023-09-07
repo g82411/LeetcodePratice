@@ -16,8 +16,12 @@
 - [Prefix Sum](#PrefixSum)
 - [Math](#Math)
 - [Hash](#Hash)
+- [Deque](#Deque)
 
 ---
+### Deque
+- **[#239_Sliding_Window_Maximum](./problems/239_Sliding_Window_Maximum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sliding-window-maximum/)
+
 ### Hash
 #### Hash + Prefix
 - **[#525_Contiguous_Array](./problems/525_Contiguous_Array/solution.go)** - [LeetCode Link](https://leetcode.com/problems/contiguous-array/description/)
@@ -68,6 +72,10 @@
 - **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
 - **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
 
+#### 走迷宮
+- **[#931_Minimum_Falling_Path_Sum](./problems/931_Minimum_Falling_Path_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-falling-path-sum/)
+- 
+
 ### Greedy
 - **[#134_Gas_Station](./problems/134_Gas_Statio/solution.go)** - [LeetCode Link](https://leetcode.com/problems/gas-station/)
 - **[#881_Boats_to_Save_People](./problems/881_Boats_to_Save_People/solution.go)** - [LeetCode Link](https://leetcode.com/problems/boats-to-save-people)
@@ -82,6 +90,9 @@
 ### Graph
 #### Dijkstra + pq
 - **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
+- **[#490_The_Maze](./problems/490_The_Maze/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze/)
+- **[#505_The_Maze_II](./problems/505_The_Maze_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze-ii/)
+- **[#499_The_Maze_III](./problems/499_The_Maze_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze-iii/)
 
 ### String
 - **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II](./problems/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
