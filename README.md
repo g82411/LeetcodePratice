@@ -17,8 +17,13 @@
 - [Math](#Math)
 - [Hash](#Hash)
 - [Deque](#Deque)
+- [Priority Queue](#PriorityQueue)
 
 ---
+### PriorityQueue
+#### Greedy
+- **[#2599_Make_the_Prefix_Sum_Non_negative](./problems/2599_Make_the_Prefix_Sum_Non_negative/solution.go)** - [LeetCode Link](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)
+
 ### Deque
 - **[#239_Sliding_Window_Maximum](./problems/239_Sliding_Window_Maximum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sliding-window-maximum/)
 
@@ -86,6 +91,7 @@
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
+- **[#2801_Counting_Stepping_Numbers_in_Range](./problems/2801_Count_Stepping_Numbers_in_Range/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-stepping-numbers-in-range)
 
 ### Graph
 #### Dijkstra + pq
