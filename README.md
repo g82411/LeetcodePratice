@@ -26,6 +26,7 @@
 
 ### Deque
 - **[#239_Sliding_Window_Maximum](./problems/239_Sliding_Window_Maximum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sliding-window-maximum/)
+- **[#1499_Max_Value_of_Equation](./problems/1499_Max_Value_of_Equation/solution.go)** - [LeetCode Link](https://leetcode.com/problems/max-value-of-equation/)
 
 ### Hash
 #### Hash + Prefix
@@ -35,6 +36,9 @@
 - **[#360_Sort_Transformed_Array](./problems/360_Sort_Transformed_Array/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sort-transformed-array/)
 
 ### Tree
+#### Binary Tree
+- **[#333_Largest_BST_Subtree](./problems/333_Largest_BST_Subtree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/largest-bst-subtree/)
+
 #### 共同祖先
 - **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
 - **[#2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game](./problems/2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)
@@ -88,11 +92,14 @@
 - **[#1727_Largest_Submatrix_With_Rearrangements](./problems/1727_Largest_Submatrix_With_Rearrangements/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)
 - **[#1657_Determine_if_Two_Strings_Are_Close](./problems/1657_Determine_if_Two_Strings_Are_Close/solution.go)** - [LeetCode Link](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 - **[#1578_Minimum_Time_to_Make_Rope_Colorful](./problems/1578_Minimum_Time_to_Make_Rope_Colorful)** - [LeetCode Link](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/editorial/)
+- **[#2845_Count_of_Interesting_Subarrays](./problems/2845_Count_of_Interesting_Subarrays/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-of-interesting-subarrays/)
+- **[#2847_Smallest_Number_With_Given_Digit_Product](./problems/2847_Smallest_Number_With_Given_Digit_Product/solution.go)** - [LeetCode Link](https://leetcode.com/problems/smallest-number-with-given-digit-product/)
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 - **[#2801_Counting_Stepping_Numbers_in_Range](./problems/2801_Count_Stepping_Numbers_in_Range/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-stepping-numbers-in-range)
-
+- **[#2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty](./problems/2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/)
+- 
 ### Graph
 #### Dijkstra + pq
 - **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
