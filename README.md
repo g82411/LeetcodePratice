@@ -99,7 +99,8 @@
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 - **[#2801_Counting_Stepping_Numbers_in_Range](./problems/2801_Count_Stepping_Numbers_in_Range/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-stepping-numbers-in-range)
 - **[#2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty](./problems/2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/)
-- 
+- **[#2827_Number_of_Beautiful_Integers_in_the_Range](./problems/2827_Number_of_Beautiful_Integers_in_the_Range/solution.go)** -[LeetCode Link](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)
+
 ### Graph
 #### Dijkstra + pq
 - **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
