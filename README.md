@@ -18,8 +18,15 @@
 - [Hash](#Hash)
 - [Deque](#Deque)
 - [Priority Queue](#PriorityQueue)
+- [String](#String)
 
 ---
+### String
+#### Rolling Hash
+- **[#2156_Find_Substring_With_Given_Hash_Value](./problems/2156_Find_Substring_With_Given_Hash_Value/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/find-substring-with-given-hash-value)
+- **[#2168_Unique_Substrings_With_Equal_Digit_Frequency]()** = [Leetcode_link](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency)
+
+
 ### PriorityQueue
 #### Greedy
 - **[#2599_Make_the_Prefix_Sum_Non_negative](./problems/2599_Make_the_Prefix_Sum_Non_negative/solution.go)** - [LeetCode Link](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)
@@ -94,6 +101,8 @@
 - **[#1578_Minimum_Time_to_Make_Rope_Colorful](./problems/1578_Minimum_Time_to_Make_Rope_Colorful)** - [LeetCode Link](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/editorial/)
 - **[#2845_Count_of_Interesting_Subarrays](./problems/2845_Count_of_Interesting_Subarrays/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-of-interesting-subarrays/)
 - **[#2847_Smallest_Number_With_Given_Digit_Product](./problems/2847_Smallest_Number_With_Given_Digit_Product/solution.go)** - [LeetCode Link](https://leetcode.com/problems/smallest-number-with-given-digit-product/)
+- **[#2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time](./problems/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
+- **[#2850_Minimum_Moves_to_Spread_Stones_Over_Grid](./problems/2850_Minimum_Moves_to_Spread_Stones_Over_Grid/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid)
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
