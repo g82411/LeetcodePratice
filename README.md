@@ -22,9 +22,6 @@
 
 ---
 ### String
-#### Rolling Hash
-- **[#2156_Find_Substring_With_Given_Hash_Value](./problems/2156_Find_Substring_With_Given_Hash_Value/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/find-substring-with-given-hash-value)
-- **[#2168_Unique_Substrings_With_Equal_Digit_Frequency]()** = [Leetcode_link](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency)
 
 
 ### PriorityQueue
@@ -63,6 +60,7 @@
 - **[#2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps](./problems/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)
 - **[#1004_Max_Consecutive_Ones_III](./problems/1004_Max_Consecutive_Ones_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - **[#2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K](./problems/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+
 ##### 區間窗
 - **[#986. Interval List Intersections](./problems/986_Interval_List_Intersections/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interval-list-intersections/)
 
@@ -90,7 +88,12 @@
 
 #### 走迷宮
 - **[#931_Minimum_Falling_Path_Sum](./problems/931_Minimum_Falling_Path_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-falling-path-sum/)
-- 
+
+#### 字串搜尋LCS
+- **[#1062_Longest_Repeating_Substring](./problems/1062_Longest_Repeating_Substring/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-repeating-substring/)
+
+#### 二為搜尋
+- **[#1770_Maximum_Score_from_Performing_Multiplication_Operations](./problems/1770_Maximum_Score_from_Performing_Multiplication_Operations/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
 
 ### Greedy
 - **[#134_Gas_Station](./problems/134_Gas_Statio/solution.go)** - [LeetCode Link](https://leetcode.com/problems/gas-station/)
@@ -119,6 +122,10 @@
 
 ### String
 - **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II](./problems/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
+#### Rolling Hash
+- **[#2156_Find_Substring_With_Given_Hash_Value](./problems/2156_Find_Substring_With_Given_Hash_Value/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/find-substring-with-given-hash-value)
+- **[#2168_Unique_Substrings_With_Equal_Digit_Frequency](./problems/2168_Unique_Substrings_With_Equal_Digit_Frequency/solution.go)** = [Leetcode_link](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency)
+- **[#1554_Strings_Differ_by_One_Character](./problems/1554_Strings_Differ_by_One_Character/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/strings-differ-by-one-character/description/)
 
 ### PrefixSum
 - **[#2838_Maximum_Coins_Heroes_Can_Collect](./problems/2838_Maximum_Coins_Heroes_Can_Collect/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)
