@@ -21,8 +21,6 @@
 - [String](#String)
 
 ---
-### String
-
 
 ### PriorityQueue
 #### Greedy
@@ -106,12 +104,14 @@
 - **[#2847_Smallest_Number_With_Given_Digit_Product](./problems/2847_Smallest_Number_With_Given_Digit_Product/solution.go)** - [LeetCode Link](https://leetcode.com/problems/smallest-number-with-given-digit-product/)
 - **[#2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time](./problems/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
 - **[#2850_Minimum_Moves_to_Spread_Stones_Over_Grid](./problems/2850_Minimum_Moves_to_Spread_Stones_Over_Grid/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid)
+- **[#1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique](./problems/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 - **[#2801_Counting_Stepping_Numbers_in_Range](./problems/2801_Count_Stepping_Numbers_in_Range/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-stepping-numbers-in-range)
 - **[#2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty](./problems/2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/)
 - **[#2827_Number_of_Beautiful_Integers_in_the_Range](./problems/2827_Number_of_Beautiful_Integers_in_the_Range/solution.go)** -[LeetCode Link](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)
+- **[#131_Palindrome_Partitioning](./problems/131_Palindrome_Partitioning/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-partitioning/)
 
 ### Graph
 #### Dijkstra + pq
@@ -130,6 +130,12 @@
 ### PrefixSum
 - **[#2838_Maximum_Coins_Heroes_Can_Collect](./problems/2838_Maximum_Coins_Heroes_Can_Collect/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)
 
+### 回文問題 馬拉車算法
+- **[#647_Palindromic_Substrings](./problems/647_Palindromic_Substrings/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindromic-substrings/)
+- **[#214_Shortest_Palindrome](./problems/214_Shortest_Palindrome/solution.go)** - [LeetCode Link](https://leetcode.com/problems/shortest-palindrome/)
+- **[#336_Palindrome_Pairs](./problems/336_Palindrome_Pairs/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-pairs/)
+- **[#132_Palindrome_Partitioning_II](./problems/132_Palindrome_Partitioning_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-partitioning-ii/)
+- **[#5_Longest_Palindromic_Substring](./problems/5_Longest_Palindromic_Substring/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-pairs/)
 ---
 
 ## 使用方法
