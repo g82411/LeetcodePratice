@@ -20,8 +20,13 @@
 - [Deque](#Deque)
 - [Priority Queue](#PriorityQueue)
 - [String](#String)
+- [Stack](#Stack)
 
 ---
+### Stack
+#### Monotonic Stack
+- **[#84_Largest_Rectangle_in_Histogram](./problems/84_Largest_Rectangle_in_Histogram/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/largest-rectangle-in-histogram)
+
 
 ### PriorityQueue
 #### Greedy
@@ -106,6 +111,8 @@
 - **[#2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time](./problems/2849_Determine_if_a_Cell_Is_Reachable_at_a_Given_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)
 - **[#2850_Minimum_Moves_to_Spread_Stones_Over_Grid](./problems/2850_Minimum_Moves_to_Spread_Stones_Over_Grid/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid)
 - **[#1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique](./problems/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+- **[#135_Candy](./problems/135_Candy/solution.go)** - [LeetCode Link](https://leetcode.com/problems/candy/)
+- **[#1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique](./problems/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
@@ -130,6 +137,10 @@
 - **[#2156_Find_Substring_With_Given_Hash_Value](./problems/2156_Find_Substring_With_Given_Hash_Value/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/find-substring-with-given-hash-value)
 - **[#2168_Unique_Substrings_With_Equal_Digit_Frequency](./problems/2168_Unique_Substrings_With_Equal_Digit_Frequency/solution.go)** = [Leetcode_link](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency)
 - **[#1554_Strings_Differ_by_One_Character](./problems/1554_Strings_Differ_by_One_Character/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/strings-differ-by-one-character/description/)
+
+### KMP
+- **[#1392_Longest_Happy_Prefix](./problems/1392_Longest_Happy_Prefix/solution.go)** - [LeetCode Link](https://leetcode.com/problems/longest-happy-prefix/)
+- **[#5_Longest_Palindromic_Substring](./problems/5_Longest_Palindromic_Substring/solution.go)** - [LeetCode Link](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ### PrefixSum
 - **[#2838_Maximum_Coins_Heroes_Can_Collect](./problems/2838_Maximum_Coins_Heroes_Can_Collect/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)
