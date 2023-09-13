@@ -130,6 +130,7 @@
 - **[#490_The_Maze](./problems/490_The_Maze/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze/)
 - **[#505_The_Maze_II](./problems/505_The_Maze_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze-ii/)
 - **[#499_The_Maze_III](./problems/499_The_Maze_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze-iii/)
+- **[#743_Network_Delay_Time](./problems/743_Network_Delay_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/network-delay-time/)
 
 ### String
 - **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II](./problems/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
