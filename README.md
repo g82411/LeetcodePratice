@@ -113,7 +113,7 @@
 - **[#1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique](./problems/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 - **[#135_Candy](./problems/135_Candy/solution.go)** - [LeetCode Link](https://leetcode.com/problems/candy/)
 - **[#1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique](./problems/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
-
+- **[#2136_Earliest_Possible_Day_of_Full_Bloom](./problems/2136_Earliest_Possible_Day_of_Full_Bloom/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/earliest-possible-day-of-full-bloom)
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 - **[#2801_Counting_Stepping_Numbers_in_Range](./problems/2801_Count_Stepping_Numbers_in_Range/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-stepping-numbers-in-range)
