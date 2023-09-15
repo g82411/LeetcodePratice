@@ -90,6 +90,11 @@
 - **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
 - **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
 
+####搜索區間
+- 
+- **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
+
+
 #### 走迷宮
 - **[#931_Minimum_Falling_Path_Sum](./problems/931_Minimum_Falling_Path_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-falling-path-sum/)
 
@@ -132,6 +137,8 @@
 - **[#499_The_Maze_III](./problems/499_The_Maze_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze-iii/)
 - **[#743_Network_Delay_Time](./problems/743_Network_Delay_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/network-delay-time/)
 
+#### MST
+- **[#1584_Min_Cost_to_Connect_All_Points](./problems/1584_Min_Cost_to_Connect_All_Points/solution.go)** - [LeetCode Link](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 ### String
 - **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II](./problems/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
 #### Rolling Hash
