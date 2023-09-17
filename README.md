@@ -8,6 +8,7 @@
 - [差分數列](#差分數列)
 - [DP](#DP)
 - [Greedy](#Greedy)
+- [Binary Search](#BinarySearch)
 - [雙指針](#雙指針)
 - [DFS](#DFS)
 - [BFS](#BFS)
@@ -26,6 +27,9 @@
 ### Stack
 #### Monotonic Stack
 - **[#84_Largest_Rectangle_in_Histogram](./problems/84_Largest_Rectangle_in_Histogram/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/largest-rectangle-in-histogram)
+
+### BinarySearch
+- **[#2861_Maximum_Number_of_Alloys](./problems/2861_Maximum_Number_of_Alloys/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-number-of-alloys/)
 
 
 ### PriorityQueue
@@ -90,11 +94,12 @@
 - **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
 - **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
 
-####搜索區間
-- 
+#### 搜索區間
 - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
+- **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
 
-
+#### 分割數組
+- **[#1335_Minimum_Difficulty_of_a_Job_Schedule](./problems/1335_Minimum_Difficulty_of_a_Job_Schedule/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)
 #### 走迷宮
 - **[#931_Minimum_Falling_Path_Sum](./problems/931_Minimum_Falling_Path_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-falling-path-sum/)
 
@@ -119,15 +124,22 @@
 - **[#135_Candy](./problems/135_Candy/solution.go)** - [LeetCode Link](https://leetcode.com/problems/candy/)
 - **[#1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique](./problems/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 - **[#2136_Earliest_Possible_Day_of_Full_Bloom](./problems/2136_Earliest_Possible_Day_of_Full_Bloom/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/earliest-possible-day-of-full-bloom)
+- **[#2857_Count_Pairs_of_Points_With_Distance_k](./problems/2857_Count_Pairs_of_Points_With_Distance_k/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-pairs-of-points-with-distance-k)
+- **[#2860_Happy_Students](./problems/2860_Happy_Students/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/happy-students)
+- **[#2856_Minimum_Array_Length_After_Pair_Removals](./problems/2856_Minimum_Array_Length_After_Pair_Removals/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-array-length-after-pair-removals)
+
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
 - **[#2801_Counting_Stepping_Numbers_in_Range](./problems/2801_Count_Stepping_Numbers_in_Range/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-stepping-numbers-in-range)
 - **[#2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty](./problems/2842_Count_K-Subsequences_of_a_String_With_Maximum_Beauty/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/)
 - **[#2827_Number_of_Beautiful_Integers_in_the_Range](./problems/2827_Number_of_Beautiful_Integers_in_the_Range/solution.go)** -[LeetCode Link](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)
 - **[#131_Palindrome_Partitioning](./problems/131_Palindrome_Partitioning/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-partitioning/)
+- **[#2852_Sum_of_Remoteness_of_All_Cells](./problems/2852_Sum_of_Remoteness_of_All_Cells/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sum-of-remoteness-of-all-cells/)
 
 ### BFS
 - **[#127_Word_Ladder](./problems/127_Word_Ladder/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-ladder/)
+- **[#1631_Path_With_Minimum_Effort](./problems/1631_Path_With_Minimum_Effort/solution.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-minimum-effort/)
+- **[#847_Shortest_Path_Visiting_All_Nodes](./problems/847_Shortest_Path_Visiting_All_Nodes/solution.go)** - [LeetCode Link](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 
 ### Graph
 #### Dijkstra + pq
@@ -139,6 +151,7 @@
 
 #### MST
 - **[#1584_Min_Cost_to_Connect_All_Points](./problems/1584_Min_Cost_to_Connect_All_Points/solution.go)** - [LeetCode Link](https://leetcode.com/problems/min-cost-to-connect-all-points/)
+- **[#1489_Find_Critical_and_Pseudo-Critical_Edges_in_Minimum_Spanning_Tree](./problems/1489_Find_Critical_and_Pseudo_Critical_Edges_in_Minimum_Spanning_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
 ### String
 - **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II](./problems/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
 #### Rolling Hash
