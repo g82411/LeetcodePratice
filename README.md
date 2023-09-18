@@ -22,8 +22,13 @@
 - [Priority Queue](#PriorityQueue)
 - [String](#String)
 - [Stack](#Stack)
+- [Math](#Math)
 
 ---
+### Math
+#### 數列分析
+- **[#2862_Maximum_Element-Sum_of_a_Complete_Subset_of_Indices](./problems/2843_Maximum_Product_of_Two_Elements_in_an_Array/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+
 ### Stack
 #### Monotonic Stack
 - **[#84_Largest_Rectangle_in_Histogram](./problems/84_Largest_Rectangle_in_Histogram/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/largest-rectangle-in-histogram)
@@ -50,6 +55,8 @@
 ### Tree
 #### Binary Tree
 - **[#333_Largest_BST_Subtree](./problems/333_Largest_BST_Subtree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/largest-bst-subtree/)
+#### ReRoot
+- **[#2858_Minimum_Edge_Reversals_So_Every_Node_Is_Reachable](./problems/2858_Minimum_Edge_Reversals_So_Every_Node_Is_Reachable/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/)
 
 #### 共同祖先
 - **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
