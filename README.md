@@ -126,7 +126,10 @@
 - **[#2136_Earliest_Possible_Day_of_Full_Bloom](./problems/2136_Earliest_Possible_Day_of_Full_Bloom/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/earliest-possible-day-of-full-bloom)
 - **[#2857_Count_Pairs_of_Points_With_Distance_k](./problems/2857_Count_Pairs_of_Points_With_Distance_k/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-pairs-of-points-with-distance-k)
 - **[#2860_Happy_Students](./problems/2860_Happy_Students/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/happy-students)
+
+#### Boyer–Moore majority vote
 - **[#2856_Minimum_Array_Length_After_Pair_Removals](./problems/2856_Minimum_Array_Length_After_Pair_Removals/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-array-length-after-pair-removals)
+- **[#229_Majority_Element_II](./problems/229_Majority_Element_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/majority-element-ii/)
 
 ### DFS
 - **[#489_Robot_Room_Cleaner](./problems/489_Robot_Room_Cleaner/solution.go)** - [LeetCode Link](https://leetcode.com/problems/robot-room-cleaner/)
