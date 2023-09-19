@@ -158,6 +158,9 @@
 - **[#505_The_Maze_II](./problems/505_The_Maze_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze-ii/)
 - **[#499_The_Maze_III](./problems/499_The_Maze_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze-iii/)
 - **[#743_Network_Delay_Time](./problems/743_Network_Delay_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/network-delay-time/)
+#### Kahn algorithm
+- **[#1136_Parallel_Courses](./problems/1136_Parallel_Courses/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses/)
+
 
 #### MST
 - **[#1584_Min_Cost_to_Connect_All_Points](./problems/1584_Min_Cost_to_Connect_All_Points/solution.go)** - [LeetCode Link](https://leetcode.com/problems/min-cost-to-connect-all-points/)
