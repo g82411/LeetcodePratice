@@ -100,7 +100,8 @@
 - **[#2318_Number_of_Distinct_Roll_Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
 - **[#818_Race_Car](./problems/818_race_car/solution.go)** - [LeetCode Link](https://leetcode.com/problems/race-car/)
 - **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
-
+#### 狀態壓縮
+- **[#1494_Parallel_Courses_II](./problems/1494_Parallel_Courses_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses-ii/)
 #### 搜索區間
 - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
 - **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
@@ -160,7 +161,7 @@
 - **[#743_Network_Delay_Time](./problems/743_Network_Delay_Time/solution.go)** - [LeetCode Link](https://leetcode.com/problems/network-delay-time/)
 #### Kahn algorithm
 - **[#1136_Parallel_Courses](./problems/1136_Parallel_Courses/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses/)
-
+- **[#2050_Parallel_Courses_III](./problems/2050_Parallel_Courses_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses-iii/)
 
 #### MST
 - **[#1584_Min_Cost_to_Connect_All_Points](./problems/1584_Min_Cost_to_Connect_All_Points/solution.go)** - [LeetCode Link](https://leetcode.com/problems/min-cost-to-connect-all-points/)
