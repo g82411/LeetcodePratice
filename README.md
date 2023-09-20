@@ -64,6 +64,7 @@
 - **[#1483_Kth_Ancestor_of_a_Tree_Node](./problems/1483_Kth_Ancestor_of_a_Tree_Node/solution.go)** - [LeetCode Link](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)
 
 ### 雙指針
+- **[#2422_Merge_Operations_to_Turn_Array_Into_a_Palindrome](./problems/2422_Merge_Operations_to_Turn_Array_Into_a_Palindrome/solution.go)** - [LeetCode Link](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/)
 #### 滑窗
 - **[#2024_Maximize_the_Confusion_of_an_Exam](./problems/2024_Maximize_the_Confusion_of_an_Exam/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) 
 - **[#2747_Count_Zero_Request_Servers](./problems/2747_Count_Zero_Request_Servers/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-zero-request-servers/description/)
@@ -75,6 +76,8 @@
 - **[#2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps](./problems/2106_Maximum_Fruits_Harvested_After_at_Most_K_Steps/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)
 - **[#1004_Max_Consecutive_Ones_III](./problems/1004_Max_Consecutive_Ones_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - **[#2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K](./problems/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+- **[#1658_Minimum_Operations_to_Reduce_X_to_Zero](./problems/1658_Minimum_Operations_to_Reduce_X_to_Zero/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2023-09-20)
+
 
 ##### 區間窗
 - **[#986. Interval List Intersections](./problems/986_Interval_List_Intersections/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interval-list-intersections/)
