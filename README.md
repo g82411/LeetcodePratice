@@ -77,7 +77,8 @@
 - **[#1004_Max_Consecutive_Ones_III](./problems/1004_Max_Consecutive_Ones_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/max-consecutive-ones-iii/)
 - **[#2461.Maximum-Sum-of-Distinct-Subarrays-With-Length-K](./problems/2461_Maximum_Sum_of_Distinct_Subarrays_With_Length_K/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 - **[#1658_Minimum_Operations_to_Reduce_X_to_Zero](./problems/1658_Minimum_Operations_to_Reduce_X_to_Zero/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2023-09-20)
-
+- **[#1793_Maximum_Score_of_a_Good_Subarray](./problems/1793_Maximum_Score_of_a_Good_Subarray/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/)
+- **[#2653_Sliding_Subarray_Beauty](./problems/2653_Sliding_Subarray_Beauty/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-subarray-beauty/description/)
 
 ##### 區間窗
 - **[#986. Interval List Intersections](./problems/986_Interval_List_Intersections/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interval-list-intersections/)
@@ -93,6 +94,7 @@
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
 - **[#265_Paint_House_II](./problems/265_Paint_House_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
 
+- **[#1553_Minimum_Number_of_Days_to_Eat_N_Oranges](./problems/1553_Minimum_Number_of_Days_to_Eat_N_Oranges/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)
 - **[#801 Minimum Swaps To Make Sequences Increasing](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
 - **[#790 Domino and Tromino Tiling](./problems/790_Domino_and_Tromino_Tiling/solution.go)** - [LeetCode Link](https://leetcode.com/problems/domino-and-tromino-tiling)
 - **[#2318 Number of Distinct Roll Sequences](./problems/2318_Number_of_Distinct_Roll_Sequences/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-distinct-roll-sequences/)
@@ -116,6 +118,7 @@
 
 #### 字串搜尋LCS
 - **[#1062_Longest_Repeating_Substring](./problems/1062_Longest_Repeating_Substring/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-repeating-substring/)
+- **[#10_Regular_Expression_Matching](./problems/10_Regular_Expression_Matching/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/regular-expression-matching/)
 
 #### 二為搜尋
 - **[#1770_Maximum_Score_from_Performing_Multiplication_Operations](./problems/1770_Maximum_Score_from_Performing_Multiplication_Operations/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
@@ -137,6 +140,8 @@
 - **[#2136_Earliest_Possible_Day_of_Full_Bloom](./problems/2136_Earliest_Possible_Day_of_Full_Bloom/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/earliest-possible-day-of-full-bloom)
 - **[#2857_Count_Pairs_of_Points_With_Distance_k](./problems/2857_Count_Pairs_of_Points_With_Distance_k/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-pairs-of-points-with-distance-k)
 - **[#2860_Happy_Students](./problems/2860_Happy_Students/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/happy-students)
+- **[#773_Sliding_Puzzle](./problems/773_Sliding_Puzzle/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-puzzle)
+- 
 
 #### Boyer–Moore majority vote
 - **[#2856_Minimum_Array_Length_After_Pair_Removals](./problems/2856_Minimum_Array_Length_After_Pair_Removals/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-array-length-after-pair-removals)
