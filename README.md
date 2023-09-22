@@ -35,7 +35,8 @@
 
 ### BinarySearch
 - **[#2861_Maximum_Number_of_Alloys](./problems/2861_Maximum_Number_of_Alloys/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-number-of-alloys/)
-
+- **[#2517_Maximum_Tastiness_of_Candy_Basket](./problems/2517_Maximum_Tastiness_of_Candy_Basket/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)
+- **[#2790_Maximum_Number_of_Groups_With_Increasing_Length](./problems/2790_Maximum_Number_of_Groups_With_Increasing_Length/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/)
 
 ### PriorityQueue
 #### Greedy
@@ -94,6 +95,9 @@
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
 - **[#265_Paint_House_II](./problems/265_Paint_House_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
+
+#### 依賴前N個簡單型
+- **[#2222_Number_of_Ways_to_Select_Buildings](./problems/2222_Number_of_Ways_to_Select_Buildings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-select-buildings)
 
 - **[#1553_Minimum_Number_of_Days_to_Eat_N_Oranges](./problems/1553_Minimum_Number_of_Days_to_Eat_N_Oranges/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)
 - **[#801 Minimum Swaps To Make Sequences Increasing](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
