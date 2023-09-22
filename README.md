@@ -40,6 +40,7 @@
 ### PriorityQueue
 #### Greedy
 - **[#2599_Make_the_Prefix_Sum_Non_negative](./problems/2599_Make_the_Prefix_Sum_Non_negative/solution.go)** - [LeetCode Link](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)
+- **[#630_Course_Schedule_III](./problems/630_Course_Schedule_III/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/course-schedule-iii)
 
 ### Deque
 - **[#239_Sliding_Window_Maximum](./problems/239_Sliding_Window_Maximum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sliding-window-maximum/)
@@ -110,7 +111,8 @@
 #### 搜索區間
 - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
 - **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
-
+#### 背包問題
+- **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 #### 分割數組
 - **[#1335_Minimum_Difficulty_of_a_Job_Schedule](./problems/1335_Minimum_Difficulty_of_a_Job_Schedule/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)
 #### 走迷宮
@@ -142,6 +144,9 @@
 - **[#2860_Happy_Students](./problems/2860_Happy_Students/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/happy-students)
 - **[#773_Sliding_Puzzle](./problems/773_Sliding_Puzzle/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-puzzle)
 - 
+
+#### 3 Pass
+- **[#2555_Maximize_Win_From_Two_Segments](./problems/2555_Maximize_Win_From_Two_Segments/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximize-win-from-two-segments)
 
 #### Boyer–Moore majority vote
 - **[#2856_Minimum_Array_Length_After_Pair_Removals](./problems/2856_Minimum_Array_Length_After_Pair_Removals/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-array-length-after-pair-removals)
