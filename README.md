@@ -98,6 +98,7 @@
 
 #### 依賴前N個簡單型
 - **[#2222_Number_of_Ways_to_Select_Buildings](./problems/2222_Number_of_Ways_to_Select_Buildings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-select-buildings)
+- **[#799_Champagne_Tower](./problems/799_Champagne_Tower/solution.go)** - [LeetCode Link](https://leetcode.com/problems/champagne-tower/)
 
 - **[#1553_Minimum_Number_of_Days_to_Eat_N_Oranges](./problems/1553_Minimum_Number_of_Days_to_Eat_N_Oranges/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)
 - **[#801 Minimum Swaps To Make Sequences Increasing](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
