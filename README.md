@@ -23,6 +23,7 @@
 - [String](#String)
 - [Stack](#Stack)
 - [Math](#Math)
+- [UnionFind](#UnionFind)
 
 ---
 ### Math
@@ -42,6 +43,7 @@
 #### Greedy
 - **[#2599_Make_the_Prefix_Sum_Non_negative](./problems/2599_Make_the_Prefix_Sum_Non_negative/solution.go)** - [LeetCode Link](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)
 - **[#630_Course_Schedule_III](./problems/630_Course_Schedule_III/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/course-schedule-iii)
+- **[#2785_Sort_Vowels_in_a_String](./problems/2785_Sort_Vowels_in_a_String/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sort-vowels-in-a-string/)
 
 ### Deque
 - **[#239_Sliding_Window_Maximum](./problems/239_Sliding_Window_Maximum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sliding-window-maximum/)
@@ -181,9 +183,15 @@
 - **[#1136_Parallel_Courses](./problems/1136_Parallel_Courses/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses/)
 - **[#2050_Parallel_Courses_III](./problems/2050_Parallel_Courses_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses-iii/)
 
+### UnionFind
+- **[#2867_Count_Valid_Paths_in_a_Tree](./problems/2867_Count_Valid_Paths_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-valid-paths-in-a-tree/)
+
 #### MST
 - **[#1584_Min_Cost_to_Connect_All_Points](./problems/1584_Min_Cost_to_Connect_All_Points/solution.go)** - [LeetCode Link](https://leetcode.com/problems/min-cost-to-connect-all-points/)
 - **[#1489_Find_Critical_and_Pseudo-Critical_Edges_in_Minimum_Spanning_Tree](./problems/1489_Find_Critical_and_Pseudo_Critical_Edges_in_Minimum_Spanning_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
+
+
+
 ### String
 - **[#2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II](./problems/2840_Check_if_Strings_Can_be_Made_Equal_With_Operations_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/description/)
 #### Rolling Hash
