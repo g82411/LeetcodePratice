@@ -33,6 +33,7 @@
 ### Stack
 #### Monotonic Stack
 - **[#84_Largest_Rectangle_in_Histogram](./problems/84_Largest_Rectangle_in_Histogram/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/largest-rectangle-in-histogram)
+- **[#2866_Beautiful_Towers_II](./problems/2866_Beautiful_Towers_II/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/beautiful-towers-ii)
 
 ### BinarySearch
 - **[#2861_Maximum_Number_of_Alloys](./problems/2861_Maximum_Number_of_Alloys/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-number-of-alloys/)
