@@ -60,6 +60,7 @@
 ### Tree
 #### Binary Tree
 - **[#333_Largest_BST_Subtree](./problems/333_Largest_BST_Subtree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/largest-bst-subtree/)
+- **[#2764_is_Array_a_Preorder_of_Some_Binary_Tree](./problems/2764_is_Array_a_Preorder_of_Some_Binary_Tree/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree)
 #### ReRoot
 - **[#2858_Minimum_Edge_Reversals_So_Every_Node_Is_Reachable](./problems/2858_Minimum_Edge_Reversals_So_Every_Node_Is_Reachable/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/)
 
