@@ -49,6 +49,7 @@
 ### Deque
 - **[#239_Sliding_Window_Maximum](./problems/239_Sliding_Window_Maximum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sliding-window-maximum/)
 - **[#1499_Max_Value_of_Equation](./problems/1499_Max_Value_of_Equation/solution.go)** - [LeetCode Link](https://leetcode.com/problems/max-value-of-equation/)
+- **[#1425_Constrained_Subsequence_Sum](./problems/1425_Constrained_Subsequence_Sum/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/constrained-subsequence-sum)
 
 ### Hash
 #### Hash + Prefix
