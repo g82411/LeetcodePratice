@@ -60,6 +60,8 @@
 - **[#360_Sort_Transformed_Array](./problems/360_Sort_Transformed_Array/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sort-transformed-array/)
 
 ### Tree
+#### Red Black Tree
+- **[#2817_Minimum_Absolute_Difference_Between_Elements_With_Constraint](./problems/2817_Minimum_Absolute_Difference_Between_Elements_With_Constraint/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint)
 #### Binary Tree
 - **[#333_Largest_BST_Subtree](./problems/333_Largest_BST_Subtree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/largest-bst-subtree/)
 - **[#2764_is_Array_a_Preorder_of_Some_Binary_Tree](./problems/2764_is_Array_a_Preorder_of_Some_Binary_Tree/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree)
