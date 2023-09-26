@@ -126,6 +126,7 @@
 #### 搜索區間
 - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
 - **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
+- **[#1547_Minimum_Cost_to_Cut_a_Stick](./problems/1547_Minimum_Cost_to_Cut_a_Stick/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
 #### 背包問題
 - **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 #### 分割數組
