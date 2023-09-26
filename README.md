@@ -47,6 +47,7 @@
 - **[#2599_Make_the_Prefix_Sum_Non_negative](./problems/2599_Make_the_Prefix_Sum_Non_negative/solution.go)** - [LeetCode Link](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)
 - **[#630_Course_Schedule_III](./problems/630_Course_Schedule_III/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/course-schedule-iii)
 - **[#2785_Sort_Vowels_in_a_String](./problems/2785_Sort_Vowels_in_a_String/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sort-vowels-in-a-string/)
+- **[#1840_Maximum_Building_Height](./problems/1840_Maximum_Building_Height/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-building-height/)
 
 ### Deque
 - **[#239_Sliding_Window_Maximum](./problems/239_Sliding_Window_Maximum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sliding-window-maximum/)
