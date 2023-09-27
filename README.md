@@ -123,6 +123,9 @@
 - **[#2361_Minimum_Costs_Using_the_Train_Line](./problems/2361_Minimum_Costs_Using_the_Train_Line/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-costs-using-the-train-line/)
 #### 狀態壓縮
 - **[#1494_Parallel_Courses_II](./problems/1494_Parallel_Courses_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses-ii/)
+#### 簡單區間(明確將鎮列分成k份)
+ - **[#813_Largest_Sum_of_Averages](./problems/813_Largest_Sum_of_Averages/solution.go)** - [LeetCode Link](https://leetcode.com/problems/largest-sum-of-averages/)
+
 #### 搜索區間
 - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
 - **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
@@ -137,7 +140,7 @@
 - **[#741_Cherry_Pickup](./problems/741_Cherry_Pickup/solution.go)** - [LeetCode Link](https://leetcode.com/problems/cherry-pickup/)
 - **[#174_Dungeon_Game](./problems/174_Dungeon_Game/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/dungeon-game/)
 - **[#576_Out_of_Boundary_Paths](./problems/576_Out_of_Boundary_Paths/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/out-of-boundary-paths)
-
+- **[#2267_Check_if_There_Is_a_Valid_Parentheses_String_Path](./problems/2267_Check_if_There_Is_a_Valid_Parentheses_String_Path/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)
 
 #### 字串搜尋LCS
 - **[#1062_Longest_Repeating_Substring](./problems/1062_Longest_Repeating_Substring/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-repeating-substring/)
