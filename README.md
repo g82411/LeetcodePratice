@@ -135,6 +135,9 @@
 - **[#931_Minimum_Falling_Path_Sum](./problems/931_Minimum_Falling_Path_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-falling-path-sum/)
 - **[#1463_Cherry_Pickup_II](./problems/1463_Cherry_Pickup_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/cherry-pickup-ii/)
 - **[#741_Cherry_Pickup](./problems/741_Cherry_Pickup/solution.go)** - [LeetCode Link](https://leetcode.com/problems/cherry-pickup/)
+- **[#174_Dungeon_Game](./problems/174_Dungeon_Game/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/dungeon-game/)
+- **[#576_Out_of_Boundary_Paths](./problems/576_Out_of_Boundary_Paths/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/out-of-boundary-paths)
+
 
 #### 字串搜尋LCS
 - **[#1062_Longest_Repeating_Substring](./problems/1062_Longest_Repeating_Substring/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-repeating-substring/)
