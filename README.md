@@ -170,6 +170,7 @@
 - **[#2860_Happy_Students](./problems/2860_Happy_Students/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/happy-students)
 - **[#773_Sliding_Puzzle](./problems/773_Sliding_Puzzle/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-puzzle)
 - **[#2800_Shortest_String_That_Contains_Three_Strings](./problems/2800_Shortest_String_That_Contains_Three_Strings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/shortest-string-that-contains-three-strings)
+- **[#2147_Number_of_Ways_to_Divide_a_Long_Corridor](./problems/2147_Number_of_Ways_to_Divide_a_Long_Corridor/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor)
 
 #### 3 Pass
 - **[#2555_Maximize_Win_From_Two_Segments](./problems/2555_Maximize_Win_From_Two_Segments/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximize-win-from-two-segments)
