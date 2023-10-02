@@ -183,6 +183,9 @@
 - **[#2827_Number_of_Beautiful_Integers_in_the_Range](./problems/2827_Number_of_Beautiful_Integers_in_the_Range/solution.go)** -[LeetCode Link](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)
 - **[#131_Palindrome_Partitioning](./problems/131_Palindrome_Partitioning/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-partitioning/)
 - **[#2852_Sum_of_Remoteness_of_All_Cells](./problems/2852_Sum_of_Remoteness_of_All_Cells/solution.go)** - [LeetCode Link](https://leetcode.com/problems/sum-of-remoteness-of-all-cells/)
+- **[#2868_The_Wording_Game](./problems/2868_The_Wording_Game/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/the-wording-game/)
+- **[#2872_Maximum_Number_of_K_Divisible_Components](./problems/2872_Maximum_Number_of_K_Divisible_Components/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)
+- **[#2876_Count_Visited_Nodes_in_a_Directed_Graph](./problems/2876_Count_Visited_Nodes_in_a_Directed_Graph/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/)
 
 ### BFS
 - **[#127_Word_Ladder](./problems/127_Word_Ladder/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-ladder/)
