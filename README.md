@@ -36,6 +36,7 @@
 - **[#2866_Beautiful_Towers_II](./problems/2866_Beautiful_Towers_II/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/beautiful-towers-ii)
 - **[#1063_Number_of_Valid_Subarrays](./problems/1063_Number_of_Valid_Subarrays/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-valid-subarrays/description/)
 - **[#316_Remove_Duplicate_Letters](./problems/316_Remove_Duplicate_Letters/solution.go)** - [LeetCode Link](https://leetcode.com/problems/remove-duplicate-letters/)
+- **[#2334_Subarray_With_Elements_Greater_Than_Varying_Threshold](./problems/2334_Subarray_With_Elements_Greater_Than_Varying_Threshold/solution.go)** - [LeetCode Link](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)
 
 ### BinarySearch
 - **[#2861_Maximum_Number_of_Alloys](./problems/2861_Maximum_Number_of_Alloys/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-number-of-alloys/)
@@ -125,11 +126,12 @@
 - **[#1494_Parallel_Courses_II](./problems/1494_Parallel_Courses_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses-ii/)
 #### 簡單區間(明確將鎮列分成k份)
  - **[#813_Largest_Sum_of_Averages](./problems/813_Largest_Sum_of_Averages/solution.go)** - [LeetCode Link](https://leetcode.com/problems/largest-sum-of-averages/)
-
+ - **[#375_Guess_Number_Higher_or_Lower_II](./problems/375_Guess_Number_Higher_or_Lower_II/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/guess-number-higher-or-lower-ii)
 #### 搜索區間
 - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
 - **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
 - **[#1547_Minimum_Cost_to_Cut_a_Stick](./problems/1547_Minimum_Cost_to_Cut_a_Stick/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+- **[#1000_Minimum_Cost_to_Merge_Stones](./problems/1000_Minimum_Cost_to_Merge_Stones/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 #### 背包問題
 - **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 #### 分割數組

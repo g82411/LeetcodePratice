@@ -9,7 +9,7 @@ func (m MinHeap) Len() int {
 }
 
 func (m MinHeap) Less(i, j int) bool {
-	return m[i] > m[j]
+	return m[i] < m[j]
 }
 
 func (m MinHeap) Swap(i, j int) {
