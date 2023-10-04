@@ -147,6 +147,8 @@
 #### 字串搜尋LCS
 - **[#1062_Longest_Repeating_Substring](./problems/1062_Longest_Repeating_Substring/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-repeating-substring/)
 - **[#10_Regular_Expression_Matching](./problems/10_Regular_Expression_Matching/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/regular-expression-matching/)
+- **[#1458_Max_Dot_Product_of_Two_Subsequences](./problems/1458_Max_Dot_Product_of_Two_Subsequences/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
+- **[#1745_Palindrome_Partitioning_IV](./problems/1745_Palindrome_Partitioning_IV/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/palindrome-partitioning-iv/)
 
 #### 二為搜尋
 - **[#1770_Maximum_Score_from_Performing_Multiplication_Operations](./problems/1770_Maximum_Score_from_Performing_Multiplication_Operations/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)
