@@ -138,6 +138,7 @@
 - **[#10_Regular_Expression_Matching](./problems/10_Regular_Expression_Matching/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/regular-expression-matching/)
 - **[#1458_Max_Dot_Product_of_Two_Subsequences](./problems/1458_Max_Dot_Product_of_Two_Subsequences/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
 - **[#1745_Palindrome_Partitioning_IV](./problems/1745_Palindrome_Partitioning_IV/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/palindrome-partitioning-iv/)
+- **[#546_Remove_Boxes(H+)](./problems/546_Remove_Boxes/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/remove-boxes/)
 
 #### 背包問題
 - **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
