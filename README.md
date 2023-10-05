@@ -129,7 +129,7 @@
  - **[#375_Guess_Number_Higher_or_Lower_II](./problems/375_Guess_Number_Higher_or_Lower_II/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/guess-number-higher-or-lower-ii)
  - **[#410_Split_Array_Largest_Sum](./problems/410_Split_Array_Largest_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/split-array-largest-sum/)
  - **[#1335_Minimum_Difficulty_of_a_Job_Schedule](./problems/1335_Minimum_Difficulty_of_a_Job_Schedule/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)
-
+ - **[#1478_Allocate_Mailboxes](./problems/1478_Allocate_Mailboxes/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/allocate-mailboxes)
 #### 搜索區間
  - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
  - **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
@@ -141,7 +141,7 @@
  - **[#1130_Minimum_Cost_Tree_From_Leaf_Values](./problems/1130_Minimum_Cost_Tree_From_Leaf_Values/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
  - **[#1690_Stone_Game_VII](./problems/1690_Stone_Game_VII/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/stone-game-vii)
  - **[#312_Burst_Balloons](./problems/312_Burst_Balloons/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/burst-balloons)
-
+ - **[#471_Encode_String_with_Shortest_Length](./problems/471_Encode_String_with_Shortest_Length/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/encode-string-with-shortest-length)
 #### 背包問題
 - **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 #### 走迷宮
