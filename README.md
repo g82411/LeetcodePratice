@@ -142,6 +142,7 @@
  - **[#1690_Stone_Game_VII](./problems/1690_Stone_Game_VII/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/stone-game-vii)
  - **[#312_Burst_Balloons](./problems/312_Burst_Balloons/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/burst-balloons)
  - **[#471_Encode_String_with_Shortest_Length](./problems/471_Encode_String_with_Shortest_Length/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/encode-string-with-shortest-length)
+ - **[#1246_Palindrome_Removal](./problems/1246_Palindrome_Removal/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/palindrome-removal)
 #### 背包問題
 - **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 #### 走迷宮
