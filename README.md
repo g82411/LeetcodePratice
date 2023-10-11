@@ -143,6 +143,8 @@
  - **[#312_Burst_Balloons](./problems/312_Burst_Balloons/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/burst-balloons)
  - **[#471_Encode_String_with_Shortest_Length](./problems/471_Encode_String_with_Shortest_Length/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/encode-string-with-shortest-length)
  - **[#1246_Palindrome_Removal](./problems/1246_Palindrome_Removal/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/palindrome-removal)
+ - **[#1682_Longest_Palindromic_Subsequence_II](./problems/1682_Longest_Palindromic_Subsequence_II/solution.go)** - [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/)
+ - **[#1039_Minimum_Score_Triangulation_of_Polygon](./problems/1039_Minimum_Score_Triangulation_of_Polygon/solution.go)** - [LeetCode](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/)
 #### 背包問題
 - **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 - **[#2585_Number_of_Ways_to_Earn_Points](./problems/2585_Number_of_Ways_to_Earn_Points/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-earn-points)
@@ -153,7 +155,8 @@
 - **[#174_Dungeon_Game](./problems/174_Dungeon_Game/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/dungeon-game/)
 - **[#576_Out_of_Boundary_Paths](./problems/576_Out_of_Boundary_Paths/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/out-of-boundary-paths)
 - **[#2267_Check_if_There_Is_a_Valid_Parentheses_String_Path](./problems/2267_Check_if_There_Is_a_Valid_Parentheses_String_Path/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/)
-
+#### 雙序列
+- ** [#44_Wildcard_Matching](./problems/44_Wildcard_Matching/solution.go)** - [LeetCode Link](https://leetcode.com/problems/wildcard-matching/)
 #### 字串搜尋LCS
 - **[#1062_Longest_Repeating_Substring](./problems/1062_Longest_Repeating_Substring/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-repeating-substring/)
 - **[#10_Regular_Expression_Matching](./problems/10_Regular_Expression_Matching/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/regular-expression-matching/)
