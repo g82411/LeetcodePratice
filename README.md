@@ -104,6 +104,7 @@
 - **[#2251_Number_of_Flowers_in_Full_Bloom](./problems/2251_Number_of_Flowers_in_Full_Bloom/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-flowers-in-full-bloom)
 
 ### DP
+- **[#361_Bomb_Enemy](./problems/361_Bomb_Enemy/solution.go)** - [LeetCode Link](https://leetcode.com/problems/bomb-enemy/)
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
 - **[#265_Paint_House_II](./problems/265_Paint_House_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
