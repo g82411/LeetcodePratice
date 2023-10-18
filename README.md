@@ -243,6 +243,9 @@
 - **[#2156_Find_Substring_With_Given_Hash_Value](./problems/2156_Find_Substring_With_Given_Hash_Value/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/find-substring-with-given-hash-value)
 - **[#2168_Unique_Substrings_With_Equal_Digit_Frequency](./problems/2168_Unique_Substrings_With_Equal_Digit_Frequency/solution.go)** = [Leetcode_link](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency)
 - **[#1554_Strings_Differ_by_One_Character](./problems/1554_Strings_Differ_by_One_Character/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/strings-differ-by-one-character/description/)
+#### Tire
+- **[#139_Word_Break](./problems/139_Word_Break/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-break/)
+- **[#140_Word_Break_II](./problems/140_Word_Break_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-break-ii)
 
 ### KMP
 - **[#1392_Longest_Happy_Prefix](./problems/1392_Longest_Happy_Prefix/solution.go)** - [LeetCode Link](https://leetcode.com/problems/longest-happy-prefix/)
