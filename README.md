@@ -105,6 +105,7 @@
 
 ### DP
 - **[#361_Bomb_Enemy](./problems/361_Bomb_Enemy/solution.go)** - [LeetCode Link](https://leetcode.com/problems/bomb-enemy/)
+- **[#2218_Maximum_Value_of_K_Coins_From_Piles](./problems/2218_Maximum_Value_of_K_Coins_From_Piles/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
 - **[#265_Paint_House_II](./problems/265_Paint_House_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
