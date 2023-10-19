@@ -92,6 +92,7 @@
 - **[#1658_Minimum_Operations_to_Reduce_X_to_Zero](./problems/1658_Minimum_Operations_to_Reduce_X_to_Zero/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2023-09-20)
 - **[#1793_Maximum_Score_of_a_Good_Subarray](./problems/1793_Maximum_Score_of_a_Good_Subarray/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/)
 - **[#2653_Sliding_Subarray_Beauty](./problems/2653_Sliding_Subarray_Beauty/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-subarray-beauty/description/)
+- **[#2904_Shortest_and_Lexicographically_Smallest_Beautiful_String](./problems/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)
 
 ##### 區間窗
 - **[#986. Interval List Intersections](./problems/986_Interval_List_Intersections/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interval-list-intersections/)
@@ -193,6 +194,9 @@
 - **[#773_Sliding_Puzzle](./problems/773_Sliding_Puzzle/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-puzzle)
 - **[#2800_Shortest_String_That_Contains_Three_Strings](./problems/2800_Shortest_String_That_Contains_Three_Strings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/shortest-string-that-contains-three-strings)
 - **[#2147_Number_of_Ways_to_Divide_a_Long_Corridor](./problems/2147_Number_of_Ways_to_Divide_a_Long_Corridor/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor)
+
+#### LIS
+- **[#1964_Find_the_Longest_Valid_Obstacle_Course_at_Each_Position](./problems/1964_Find_the_Longest_Valid_Obstacle_Course_at_Each_Position/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
 
 #### 3 Pass
 - **[#2555_Maximize_Win_From_Two_Segments](./problems/2555_Maximize_Win_From_Two_Segments/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximize-win-from-two-segments)
