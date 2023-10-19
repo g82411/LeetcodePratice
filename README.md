@@ -194,6 +194,9 @@
 - **[#2800_Shortest_String_That_Contains_Three_Strings](./problems/2800_Shortest_String_That_Contains_Three_Strings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/shortest-string-that-contains-three-strings)
 - **[#2147_Number_of_Ways_to_Divide_a_Long_Corridor](./problems/2147_Number_of_Ways_to_Divide_a_Long_Corridor/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor)
 
+#### LIS
+- **[#1964_Find_the_Longest_Valid_Obstacle_Course_at_Each_Position](./problems/1964_Find_the_Longest_Valid_Obstacle_Course_at_Each_Position/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
+
 #### 3 Pass
 - **[#2555_Maximize_Win_From_Two_Segments](./problems/2555_Maximize_Win_From_Two_Segments/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximize-win-from-two-segments)
 
