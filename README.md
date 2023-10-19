@@ -92,6 +92,7 @@
 - **[#1658_Minimum_Operations_to_Reduce_X_to_Zero](./problems/1658_Minimum_Operations_to_Reduce_X_to_Zero/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/description/?envType=daily-question&envId=2023-09-20)
 - **[#1793_Maximum_Score_of_a_Good_Subarray](./problems/1793_Maximum_Score_of_a_Good_Subarray/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/)
 - **[#2653_Sliding_Subarray_Beauty](./problems/2653_Sliding_Subarray_Beauty/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-subarray-beauty/description/)
+- **[#2904_Shortest_and_Lexicographically_Smallest_Beautiful_String](./problems/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)
 
 ##### 區間窗
 - **[#986. Interval List Intersections](./problems/986_Interval_List_Intersections/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interval-list-intersections/)
