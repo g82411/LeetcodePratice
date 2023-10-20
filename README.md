@@ -113,6 +113,7 @@
 - **[#265_Paint_House_II](./problems/265_Paint_House_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
 - **[#2036_Maximum_Alternating_Subarray_Sum](./problems/2036_Maximum_Alternating_Subarray_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-alternating-subarray-sum/)
 - **[#1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps](./problems/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
+- **[#639_Decode_Ways_II](./problems/639_Decode_Ways_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/decode-ways-ii/)
 
 #### 依賴前N個簡單型
 - **[#2222_Number_of_Ways_to_Select_Buildings](./problems/2222_Number_of_Ways_to_Select_Buildings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-select-buildings)
