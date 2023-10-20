@@ -114,6 +114,7 @@
 - **[#2036_Maximum_Alternating_Subarray_Sum](./problems/2036_Maximum_Alternating_Subarray_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-alternating-subarray-sum/)
 - **[#1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps](./problems/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
 - **[#639_Decode_Ways_II](./problems/639_Decode_Ways_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/decode-ways-ii/)
+- **[#1473_Paint_House_III](./problems/1473_Paint_House_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-iii/)
 
 #### 依賴前N個簡單型
 - **[#2222_Number_of_Ways_to_Select_Buildings](./problems/2222_Number_of_Ways_to_Select_Buildings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-select-buildings)
@@ -217,6 +218,7 @@
 - **[#2872_Maximum_Number_of_K_Divisible_Components](./problems/2872_Maximum_Number_of_K_Divisible_Components/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)
 - **[#2876_Count_Visited_Nodes_in_a_Directed_Graph](./problems/2876_Count_Visited_Nodes_in_a_Directed_Graph/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/)
 - **[#2791_Count_Paths_That_Can_Form_a_Palindrome_in_a_Tree](./problems/2791_Count_Paths_That_Can_Form_a_Palindrome_in_a_Tree/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree)
+- **[#403_Frog_Jump](./problems/403_Frog_Jump/solution.go)** - [LeetCode Link](https://leetcode.com/problems/frog-jump/)
 
 ### BFS
 - **[#127_Word_Ladder](./problems/127_Word_Ladder/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-ladder/)
