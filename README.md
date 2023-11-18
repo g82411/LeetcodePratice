@@ -70,10 +70,14 @@
 - **[#2764_is_Array_a_Preorder_of_Some_Binary_Tree](./problems/2764_is_Array_a_Preorder_of_Some_Binary_Tree/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree)
 #### ReRoot
 - **[#2858_Minimum_Edge_Reversals_So_Every_Node_Is_Reachable](./problems/2858_Minimum_Edge_Reversals_So_Every_Node_Is_Reachable/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/)
+#### Segment Tree
+- **[#1649_Create_Sorted_Array_through_Instructions](./problems/1649_Create_Sorted_Array_through_Instructions/solution.go)** - [LeetCode Link](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+- **[#307_Range_Sum_Query_Mutable](./problems/307_Range_Sum_Query_Mutable/solution.go)** - [LeetCode Link](https://leetcode.com/problems/range-sum-query-mutable/)
+
 
 #### 共同祖先
 - **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
-- **[#2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game](./problems/2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)
+- **[#2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game](./problems/2836_Maximize_Value_of_Function_in_a_Ball_Passing_Game/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)
 - **[#1483_Kth_Ancestor_of_a_Tree_Node](./problems/1483_Kth_Ancestor_of_a_Tree_Node/solution.go)** - [LeetCode Link](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)
 
 ### 雙指針
