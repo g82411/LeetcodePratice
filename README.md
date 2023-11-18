@@ -255,6 +255,7 @@
 #### Tire
 - **[#139_Word_Break](./problems/139_Word_Break/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-break/)
 - **[#140_Word_Break_II](./problems/140_Word_Break_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-break-ii)
+- **[#2935_Maximum_Strong_Pair_XOR_II](./problems/2935_Maximum_Strong_Pair_XOR_II/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-strong-pair-xor-ii)
 
 ### KMP
 - **[#1392_Longest_Happy_Prefix](./problems/1392_Longest_Happy_Prefix/solution.go)** - [LeetCode Link](https://leetcode.com/problems/longest-happy-prefix/)
