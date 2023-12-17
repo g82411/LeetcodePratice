@@ -245,6 +245,9 @@
 - **[#1136_Parallel_Courses](./problems/1136_Parallel_Courses/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses/)
 - **[#2050_Parallel_Courses_III](./problems/2050_Parallel_Courses_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/parallel-courses-iii/)
 
+#### Floyd–Warshall algorithm
+- **[#2959_Number_of_Possible_Sets_of_Closing_Branches](./problems/2959_Number_of_Possible_Sets_of_Closing_Branches/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-possible-sets-of-closing-brackets/)
+
 ### UnionFind
 - **[#2867_Count_Valid_Paths_in_a_Tree](./problems/2867_Count_Valid_Paths_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-valid-paths-in-a-tree/)
 
