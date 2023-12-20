@@ -100,7 +100,7 @@
 - **[#1793_Maximum_Score_of_a_Good_Subarray](./problems/1793_Maximum_Score_of_a_Good_Subarray/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/)
 - **[#2653_Sliding_Subarray_Beauty](./problems/2653_Sliding_Subarray_Beauty/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/sliding-subarray-beauty/description/)
 - **[#2904_Shortest_and_Lexicographically_Smallest_Beautiful_String](./problems/2904_Shortest_and_Lexicographically_Smallest_Beautiful_String/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/)
-
+- **[#2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times](./problems/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times)
 ##### 區間窗
 - **[#986. Interval List Intersections](./problems/986_Interval_List_Intersections/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interval-list-intersections/)
 
