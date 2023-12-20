@@ -281,6 +281,7 @@
 - **[#336_Palindrome_Pairs](./problems/336_Palindrome_Pairs/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-pairs/)
 - **[#132_Palindrome_Partitioning_II](./problems/132_Palindrome_Partitioning_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-partitioning-ii/)
 - **[#5_Longest_Palindromic_Substring](./problems/5_Longest_Palindromic_Substring/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-pairs/)
+- **[#564_Find_the_Closest_Palindrome](./problems/564_Find_the_Closest_Palindrome/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-the-closest-palindrome/)
 ---
 
 ## 使用方法
