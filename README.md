@@ -116,6 +116,8 @@
 - **[#361_Bomb_Enemy](./problems/361_Bomb_Enemy/solution.go)** - [LeetCode Link](https://leetcode.com/problems/bomb-enemy/)
 - **[#2218_Maximum_Value_of_K_Coins_From_Piles](./problems/2218_Maximum_Value_of_K_Coins_From_Piles/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)
 - **[#2355_Maximum_Number_of_Books_You_Can_Take](./problems/2355_Maximum_Number_of_Books_You_Can_Take/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-number-of-books-you-can-take)
+- **[#1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary](./problems/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)
+
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
 - **[#265_Paint_House_II](./problems/265_Paint_House_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-ii/)
