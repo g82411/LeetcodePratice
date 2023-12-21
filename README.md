@@ -274,6 +274,7 @@
 
 ### PrefixSum
 - **[#2838_Maximum_Coins_Heroes_Can_Collect](./problems/2838_Maximum_Coins_Heroes_Can_Collect/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)
+- **[#2949_Count_Beautiful_Substrings_II](./problems/2949_Count_Beautiful_Substrings_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-beautiful-substrings-ii/description/)
 
 ### 回文問題 馬拉車算法
 - **[#647_Palindromic_Substrings](./problems/647_Palindromic_Substrings/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindromic-substrings/)
