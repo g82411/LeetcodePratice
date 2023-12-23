@@ -29,6 +29,9 @@
 ### Math
 #### 數列分析
 - **[#2862_Maximum_Element-Sum_of_a_Complete_Subset_of_Indices](./problems/2843_Maximum_Product_of_Two_Elements_in_an_Array/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+#### 逆元
+- **[#2954_Count_the_Number_of_Infection_Sequences](./problems/2954_Count_the_Number_of_Infection_Sequences/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-the-number-of-infection-sequences/)
+
 
 ### Stack
 #### Monotonic Stack
