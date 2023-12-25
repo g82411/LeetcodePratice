@@ -308,3 +308,4 @@ go test ./problems/0001_two_sum/
 ```
 
 ### 新題目未分類
+- **[#2977_Minimum_Cost_to_Convert_String_II](./problems/2977_Minimum_Cost_to_Convert_String_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) 
