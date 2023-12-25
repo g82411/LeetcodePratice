@@ -233,6 +233,8 @@
 - **[#2876_Count_Visited_Nodes_in_a_Directed_Graph](./problems/2876_Count_Visited_Nodes_in_a_Directed_Graph/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/)
 - **[#2791_Count_Paths_That_Can_Form_a_Palindrome_in_a_Tree](./problems/2791_Count_Paths_That_Can_Form_a_Palindrome_in_a_Tree/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree)
 - **[#403_Frog_Jump](./problems/403_Frog_Jump/solution.go)** - [LeetCode Link](https://leetcode.com/problems/frog-jump/)
+- **[#2973_Find_Number_of_Coins_to_Place_in_Tree_Nodes](./problems/2973_Find_Number_of_Coins_to_Place_in_Tree_Nodes/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes)
+
 
 ### BFS
 - **[#127_Word_Ladder](./problems/127_Word_Ladder/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-ladder/)
