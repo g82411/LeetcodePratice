@@ -120,6 +120,7 @@
 - **[#2218_Maximum_Value_of_K_Coins_From_Piles](./problems/2218_Maximum_Value_of_K_Coins_From_Piles/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)
 - **[#2355_Maximum_Number_of_Books_You_Can_Take](./problems/2355_Maximum_Number_of_Books_You_Can_Take/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-number-of-books-you-can-take)
 - **[#1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary](./problems/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)
+- **[#1444_Number_of_Ways_of_Cutting_a_Pizza](./problems/1444_Number_of_Ways_of_Cutting_a_Pizza/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)
 
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
@@ -311,3 +312,4 @@ go test ./problems/0001_two_sum/
 
 ### 新題目未分類
 - **[#2977_Minimum_Cost_to_Convert_String_II](./problems/2977_Minimum_Cost_to_Convert_String_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) 
+
