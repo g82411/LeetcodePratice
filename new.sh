@@ -22,5 +22,7 @@ mkdir -p "./problems/${new_name}"
 
 # 創建 solution.go 並寫入包名（如果包名以數字開頭則在前面加底線）
 echo "package _${new_name}" > "./problems/${new_name}/solution.go"
+# Create a Readme.md file
+echo "# ${name}" > "./problems/${new_name}/README.md"
 
 echo "Done. Updated README and created folder with solution file."
