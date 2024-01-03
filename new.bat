@@ -20,6 +20,8 @@ if not exist ".\problems\%new_name%" mkdir ".\problems\%new_name%"
 
 REM 創建 solution.go 並寫入包名（如果包名以數字開頭則在前面加底線）
 echo package _%new_name% > ".\problems\%new_name%\solution.go"
+REM 創建README.md
+echo # %name% >> ".\problems\%new_name%\README.md"
 
 echo 完成。已更新 README 並創建了包含解決方案文件的文件夾。
 goto end

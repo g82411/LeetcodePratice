@@ -120,6 +120,8 @@
 - **[#2218_Maximum_Value_of_K_Coins_From_Piles](./problems/2218_Maximum_Value_of_K_Coins_From_Piles/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)
 - **[#2355_Maximum_Number_of_Books_You_Can_Take](./problems/2355_Maximum_Number_of_Books_You_Can_Take/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/maximum-number-of-books-you-can-take)
 - **[#1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary](./problems/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)
+- **[#1444_Number_of_Ways_of_Cutting_a_Pizza](./problems/1444_Number_of_Ways_of_Cutting_a_Pizza/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)
+- **[#2312_Selling_Pieces_of_Wood](./problems/2312_Selling_Pieces_of_Wood/solution.go)** - [LeetCode Link](https://leetcode.com/problems/selling-pieces-of-wood)
 
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
@@ -233,6 +235,9 @@
 - **[#2876_Count_Visited_Nodes_in_a_Directed_Graph](./problems/2876_Count_Visited_Nodes_in_a_Directed_Graph/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/)
 - **[#2791_Count_Paths_That_Can_Form_a_Palindrome_in_a_Tree](./problems/2791_Count_Paths_That_Can_Form_a_Palindrome_in_a_Tree/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree)
 - **[#403_Frog_Jump](./problems/403_Frog_Jump/solution.go)** - [LeetCode Link](https://leetcode.com/problems/frog-jump/)
+- **[#2973_Find_Number_of_Coins_to_Place_in_Tree_Nodes](./problems/2973_Find_Number_of_Coins_to_Place_in_Tree_Nodes/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes)
+- **[#2920_Maximum_Points_After_Collecting_Coins_From_All_Nodes](./problems/2920_Maximum_Points_After_Collecting_Coins_From_All_Nodes/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes)
+
 
 ### BFS
 - **[#127_Word_Ladder](./problems/127_Word_Ladder/solution.go)** - [LeetCode Link](https://leetcode.com/problems/word-ladder/)
