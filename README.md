@@ -238,6 +238,7 @@
 - **[#403_Frog_Jump](./problems/403_Frog_Jump/solution.go)** - [LeetCode Link](https://leetcode.com/problems/frog-jump/)
 - **[#2973_Find_Number_of_Coins_to_Place_in_Tree_Nodes](./problems/2973_Find_Number_of_Coins_to_Place_in_Tree_Nodes/solution.go)** - [LeetCode Link](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes)
 - **[#2920_Maximum_Points_After_Collecting_Coins_From_All_Nodes](./problems/2920_Maximum_Points_After_Collecting_Coins_From_All_Nodes/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes)
+- **[#87_Scramble_String](./problems/87_Scramble_String/solution.go)** - [LeetCode Link](https://leetcode.com/problems/scramble-string/description/?envType=study-plan-v2&envId=dynamic-programming-grandmaster)
 
 
 ### BFS
