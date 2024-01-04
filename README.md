@@ -122,6 +122,8 @@
 - **[#1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary](./problems/1639_Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)
 - **[#1444_Number_of_Ways_of_Cutting_a_Pizza](./problems/1444_Number_of_Ways_of_Cutting_a_Pizza/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza)
 - **[#2312_Selling_Pieces_of_Wood](./problems/2312_Selling_Pieces_of_Wood/solution.go)** - [LeetCode Link](https://leetcode.com/problems/selling-pieces-of-wood)
+#### 機率
+- **[#1230_Toss_Strange_Coins](./problems/1230_Toss_Strange_Coins/solution.go)** - [LeetCode Link](https://leetcode.com/problems/toss-strange-coins/description)
 
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
