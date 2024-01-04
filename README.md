@@ -124,6 +124,7 @@
 - **[#2312_Selling_Pieces_of_Wood](./problems/2312_Selling_Pieces_of_Wood/solution.go)** - [LeetCode Link](https://leetcode.com/problems/selling-pieces-of-wood)
 #### 機率
 - **[#1230_Toss_Strange_Coins](./problems/1230_Toss_Strange_Coins/solution.go)** - [LeetCode Link](https://leetcode.com/problems/toss-strange-coins/description)
+- **[#688_Knight_Probability_in_Chessboard](./problems/688_Knight_Probability_in_Chessboard/solution.go)** - [LeetCode Link](https://leetcode.com/problems/knight-probability-in-chessboard/description)
 
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
