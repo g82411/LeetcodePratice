@@ -1,4 +1,6 @@
-package _Minimum_Number_of_Coins_for_Fruits_II
+package _2969_Minimum_Number_of_Coins_for_Fruits_II
+
+import "math"
 
 type Deque []int
 

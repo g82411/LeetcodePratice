@@ -134,6 +134,7 @@
 #### 依賴前N個簡單型
 - **[#2222_Number_of_Ways_to_Select_Buildings](./problems/2222_Number_of_Ways_to_Select_Buildings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-select-buildings)
 - **[#799_Champagne_Tower](./problems/799_Champagne_Tower/solution.go)** - [LeetCode Link](https://leetcode.com/problems/champagne-tower/)
+- **[#2969_Minimum_Number_of_Coins_for_Fruits_II](problems/2969_Minimum_Number_of_Coins_for_Fruits_II/solution.go)** - [LeetCode Link](https://leetcode.com/submissions/detail/1135538679/)
 
 - **[#1553_Minimum_Number_of_Days_to_Eat_N_Oranges](./problems/1553_Minimum_Number_of_Days_to_Eat_N_Oranges/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges)
 - **[#801 Minimum Swaps To Make Sequences Increasing](./problems/801_Minimum_Swaps_To_Make_Sequences_Increasing/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing)
@@ -314,4 +315,3 @@ go test ./problems/0001_two_sum/
 
 ### 新題目未分類
 - **[#2977_Minimum_Cost_to_Convert_String_II](./problems/2977_Minimum_Cost_to_Convert_String_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) 
-- **[#Minimum_Number_of_Coins_for_Fruits_II](./problems/Minimum_Number_of_Coins_for_Fruits_II/solution.go)** - [LeetCode Link](https://leetcode.com/submissions/detail/1135538679/) 
