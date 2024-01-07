@@ -125,6 +125,8 @@
 #### 機率
 - **[#1230_Toss_Strange_Coins](./problems/1230_Toss_Strange_Coins/solution.go)** - [LeetCode Link](https://leetcode.com/problems/toss-strange-coins/description)
 - **[#688_Knight_Probability_in_Chessboard](./problems/688_Knight_Probability_in_Chessboard/solution.go)** - [LeetCode Link](https://leetcode.com/problems/knight-probability-in-chessboard/description)
+- **[#808_Soup_Servings](./problems/808_Soup_Servings/solution.go)** - [LeetCode Link](https://leetcode.com/problems/soup-servings/description)
+
 
 #### 依賴前一個的簡單型
 - **[#256_Paint_House](./problems/256_Paint_House)** - [LeetCode Link](https://leetcode.com/problems/paint-house/)
