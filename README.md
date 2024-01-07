@@ -126,6 +126,7 @@
 - **[#1230_Toss_Strange_Coins](./problems/1230_Toss_Strange_Coins/solution.go)** - [LeetCode Link](https://leetcode.com/problems/toss-strange-coins/description)
 - **[#688_Knight_Probability_in_Chessboard](./problems/688_Knight_Probability_in_Chessboard/solution.go)** - [LeetCode Link](https://leetcode.com/problems/knight-probability-in-chessboard/description)
 - **[#808_Soup_Servings](./problems/808_Soup_Servings/solution.go)** - [LeetCode Link](https://leetcode.com/problems/soup-servings/description)
+- **[#837_New_21_Game](./problems/837_New_21_Game/solution.go)** - [LeetCode Link](https://leetcode.com/problems/new-21-game/description)
 
 
 #### 依賴前一個的簡單型
