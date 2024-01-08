@@ -179,6 +179,8 @@
  - **[#1682_Longest_Palindromic_Subsequence_II](./problems/1682_Longest_Palindromic_Subsequence_II/solution.go)** - [LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence-ii/description/)
  - **[#1039_Minimum_Score_Triangulation_of_Polygon](./problems/1039_Minimum_Score_Triangulation_of_Polygon/solution.go)** - [LeetCode](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/)
  - **[#2901_Longest_Unequal_Adjacent_Groups_Subsequence_II](./problems/2901_Longest_Unequal_Adjacent_Groups_Subsequence_II/solution.go)** - [LeetCode](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)
+ - **[#1626_Best_Team_With_No_Conflicts](./problems/1626_Best_Team_With_No_Conflicts/solution.go)** - [LeetCode Link](https://leetcode.com/problems/best-team-with-no-conflicts/description)
+
 #### 背包問題
 - **[#2787_Ways_to_Express_an_Integer_as_Sum_of_Powers](./problems/2787_Ways_to_Express_an_Integer_as_Sum_of_Powers/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers)
 - **[#2585_Number_of_Ways_to_Earn_Points](./problems/2585_Number_of_Ways_to_Earn_Points/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-earn-points)
