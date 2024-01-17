@@ -79,7 +79,7 @@
 #### Segment Tree
 - **[#1649_Create_Sorted_Array_through_Instructions](./problems/1649_Create_Sorted_Array_through_Instructions/solution.go)** - [LeetCode Link](https://leetcode.com/problems/create-sorted-array-through-instructions/)
 - **[#307_Range_Sum_Query_Mutable](./problems/307_Range_Sum_Query_Mutable/solution.go)** - [LeetCode Link](https://leetcode.com/problems/range-sum-query-mutable/)
-
+- **[#2916_Subarrays_Distinct_Element_Sum_of_Squares_II](./problems/2916_Subarrays_Distinct_Element_Sum_of_Squares_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii)
 
 #### 共同祖先
 - **[#2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree](./problems/2846_Minimum_Edge_Weight_Equilibrium_Queries_in_a_Tree/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)
