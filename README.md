@@ -260,6 +260,8 @@
 - **[#847_Shortest_Path_Visiting_All_Nodes](./problems/847_Shortest_Path_Visiting_All_Nodes/solution.go)** - [LeetCode Link](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 
 ### Graph
+- **[#3017_Count_the_Number_of_Houses_at_a_Certain_Distance_II](./problems/3017_Count_the_Number_of_Houses_at_a_Certain_Distance_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii)
+
 #### Dijkstra + pq
 - **[#1514_Path_with_Maximum_Probability](./problems/1514_Path_with_Maximum_Probability/soultion.go)** - [LeetCode Link](https://leetcode.com/problems/path-with-maximum-probability/)
 - **[#490_The_Maze](./problems/490_The_Maze/solution.go)** - [LeetCode Link](https://leetcode.com/problems/the-maze/)
