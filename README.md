@@ -201,6 +201,7 @@
 #### 雙序列
 - **[#44_Wildcard_Matching](./problems/44_Wildcard_Matching/solution.go)** - [LeetCode Link](https://leetcode.com/problems/wildcard-matching/)
 - **[#97_Interleaving_String](./problems/97_Interleaving_String/solution.go)** - [LeetCode Link](https://leetcode.com/problems/interleaving-string)
+- **[#727_Minimum_Window_Subsequence](./problems/727_Minimum_Window_Subsequence/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-window-subsequence)
 
 #### 字串搜尋LCS
 - **[#1062_Longest_Repeating_Substring](./problems/1062_Longest_Repeating_Substring/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-repeating-substring/)
