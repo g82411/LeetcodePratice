@@ -136,6 +136,7 @@
 - **[#1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps](./problems/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps/solution.go)** - [LeetCode Link](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)
 - **[#639_Decode_Ways_II](./problems/639_Decode_Ways_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/decode-ways-ii/)
 - **[#1473_Paint_House_III](./problems/1473_Paint_House_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/paint-house-iii/)
+- **[#1278_Palindrome_Partitioning_III](./problems/1278_Palindrome_Partitioning_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/palindrome-partitioning-iii)
 
 #### 依賴前N個簡單型
 - **[#2222_Number_of_Ways_to_Select_Buildings](./problems/2222_Number_of_Ways_to_Select_Buildings/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/number-of-ways-to-select-buildings)
@@ -163,6 +164,7 @@
  - **[#410_Split_Array_Largest_Sum](./problems/410_Split_Array_Largest_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/split-array-largest-sum/)
  - **[#1335_Minimum_Difficulty_of_a_Job_Schedule](./problems/1335_Minimum_Difficulty_of_a_Job_Schedule/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)
  - **[#1478_Allocate_Mailboxes](./problems/1478_Allocate_Mailboxes/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/allocate-mailboxes)
+
 #### 搜索區間
  - **[#2370_Longest_Ideal_Subsequence](./problems/2370_Longest_Ideal_Subsequence/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/longest-ideal-subsequence/)
  - **[#664_Strange_Printer](./problems/664_Strange_Printer/solution.go)** - [LeetCode Link](https://leetcode.com/problems/strange-printer/)
