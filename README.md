@@ -173,6 +173,7 @@
  - **[#1458_Max_Dot_Product_of_Two_Subsequences](./problems/1458_Max_Dot_Product_of_Two_Subsequences/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
  - **[#1745_Palindrome_Partitioning_IV](./problems/1745_Palindrome_Partitioning_IV/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/palindrome-partitioning-iv/)
  - **[#546_Remove_Boxes(H+)](./problems/546_Remove_Boxes/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/remove-boxes/)
+ - **[#488_Zuma_Game](./problems/488_Zuma_Game/solution.go)** - [LeetCode Link](https://leetcode.com/problems/zuma-game)
  - **[#1130_Minimum_Cost_Tree_From_Leaf_Values](./problems/1130_Minimum_Cost_Tree_From_Leaf_Values/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
  - **[#1690_Stone_Game_VII](./problems/1690_Stone_Game_VII/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/stone-game-vii)
  - **[#312_Burst_Balloons](./problems/312_Burst_Balloons/solution.go)** - [LeetCode_Link](https://leetcode.com/problems/burst-balloons)
