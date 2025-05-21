@@ -339,3 +339,6 @@ go test ./problems/0001_two_sum/
 ### 新題目未分類
 - **[#2977_Minimum_Cost_to_Convert_String_II](./problems/2977_Minimum_Cost_to_Convert_String_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-cost-to-convert-string-ii) 
 - **[#3165_Maximum_Sum_of_Subsequence_With_Non-adjacent_Elements](./problems/3165_Maximum_Sum_of_Subsequence_With_Non-adjacent_Elements/solution.go)** - [LeetCode Link](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements)
+- **[#3552_Grid_Teleportation_Traversal](./problems/3552_Grid_Teleportation_Traversal/solution.go)** - [LeetCode Link](https://leetcode.com/problems/grid-teleportation-traversal/description/) 
+- **[#3553_Minimum_Weighted_Subgraph_With_the_Required_Paths_II](./problems/3553_Minimum_Weighted_Subgraph_With_the_Required_Paths_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii) 
+- **[#3546_Equal_Sum_Grid_Partition_I](./problems/3546_Equal_Sum_Grid_Partition_I/solution.go)** - [LeetCode Link](https://leetcode.com/problems/equal-sum-grid-partition-i) 
