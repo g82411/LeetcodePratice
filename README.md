@@ -342,3 +342,5 @@ go test ./problems/0001_two_sum/
 - **[#3552_Grid_Teleportation_Traversal](./problems/3552_Grid_Teleportation_Traversal/solution.go)** - [LeetCode Link](https://leetcode.com/problems/grid-teleportation-traversal/description/) 
 - **[#3553_Minimum_Weighted_Subgraph_With_the_Required_Paths_II](./problems/3553_Minimum_Weighted_Subgraph_With_the_Required_Paths_II/solution.go)** - [LeetCode Link](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii) 
 - **[#3546_Equal_Sum_Grid_Partition_I](./problems/3546_Equal_Sum_Grid_Partition_I/solution.go)** - [LeetCode Link](https://leetcode.com/problems/equal-sum-grid-partition-i) 
+- **[#3544_Subtree_Inversion_Sum](./problems/3544_Subtree_Inversion_Sum/solution.go)** - [LeetCode Link](https://leetcode.com/problems/subtree-inversion-sum) 
+- **[#3362_Zero_Array_Transformation_III](./problems/3362_Zero_Array_Transformation_III/solution.go)** - [LeetCode Link](https://leetcode.com/problems/zero-array-transformation-iii) 
