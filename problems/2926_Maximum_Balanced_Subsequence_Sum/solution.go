@@ -1,8 +1,8 @@
 package _926_Maximum_Balanced_Subsequence_Sum
 
 import (
-	"github.com/emirpasic/gods/trees/redblacktree"
 	"math"
+	"sort"
 )
 
 func maxBalancedSubsequenceSum(nums []int) int64 {
@@ -12,37 +12,45 @@ func maxBalancedSubsequenceSum(nums []int) int64 {
 		arr[i] = nums[i] - i
 	}
 
-	rbt := redblacktree.NewWithIntComparator()
+	// pairs 以 arr 值遞增排序
+	type pair struct {
+		key int
+		val int64
+	}
+	var pairs []pair
 	var ret int64 = math.MinInt64
 
 	for i := 0; i < n; i++ {
 		x := arr[i]
-		node, found := rbt.Floor(x)
-		if found {
-			rbt.Put(x, max(int64(nums[i]), node.Value.(int64)+int64(nums[i])))
-		} else {
-			rbt.Put(x, int64(nums[i]))
+		// 找到 <= x 的最後一個元素
+		pos := sort.Search(len(pairs), func(j int) bool { return pairs[j].key > x })
+		cur := int64(nums[i])
+		if pos > 0 {
+			cur = max(cur, pairs[pos-1].val+int64(nums[i]))
 		}
-		temp, _ := rbt.Get(x)
-		if ret < temp.(int64) {
-			ret = temp.(int64)
-		}
-
-		// 使用迭代器來移除小於或等於當前值的元素
-		it := rbt.IteratorAt(rbt.GetNode(x))
-
-		var waitToRemove []int
-		for it.Next() {
-			if it.Value().(int64) <= temp.(int64) {
-				waitToRemove = append(waitToRemove, it.Key().(int))
-			} else {
-				break
+		// 插入或更新
+		if pos < len(pairs) && pairs[pos].key == x {
+			if cur > pairs[pos].val {
+				pairs[pos].val = cur
 			}
+		} else {
+			pairs = append(pairs, pair{})
+			copy(pairs[pos+1:], pairs[pos:])
+			pairs[pos] = pair{key: x, val: cur}
 		}
-		for _, v := range waitToRemove {
-			rbt.Remove(v)
+		// 移除後續 val 小於等於當前值的元素，保持遞減
+		idx := pos + 1
+		for idx < len(pairs) && pairs[idx].val <= cur {
+			idx++
+		}
+		if idx > pos+1 {
+			copy(pairs[pos+1:], pairs[idx:])
+			pairs = pairs[:len(pairs)-(idx-(pos+1))]
 		}
 
+		if ret < cur {
+			ret = cur
+		}
 	}
 
 	return ret
